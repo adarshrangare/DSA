@@ -12,3 +12,5 @@ This Repo contains my daily Problem-Solving, Algorithm Practice, and Codes.
 - Remove Duplicate From Sorted Array II
 - Merge Sorted Array
 - Remove Element
+- Merge Strings Alternately
+
