@@ -25,4 +25,5 @@ This Repo contains my daily Problem-Solving, Algorithm Practice, and Codes.
 - Merge Sorted Array
 - Remove Element
 - Merge Strings Alternately
+- PlusOne
 
